@@ -1,0 +1,1 @@
+# ansible-empty-directory-layout
